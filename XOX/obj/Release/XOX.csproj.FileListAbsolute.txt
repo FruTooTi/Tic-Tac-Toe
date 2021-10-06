@@ -1,0 +1,10 @@
+C:\Users\gs_gr\OneDrive\Masaüstü\Çalışma-Masası\C#\XOX\XOX\bin\Release\XOX.exe.config
+C:\Users\gs_gr\OneDrive\Masaüstü\Çalışma-Masası\C#\XOX\XOX\bin\Release\XOX.exe
+C:\Users\gs_gr\OneDrive\Masaüstü\Çalışma-Masası\C#\XOX\XOX\bin\Release\XOX.pdb
+C:\Users\gs_gr\OneDrive\Masaüstü\Çalışma-Masası\C#\XOX\XOX\obj\Release\XOX.Form1.resources
+C:\Users\gs_gr\OneDrive\Masaüstü\Çalışma-Masası\C#\XOX\XOX\obj\Release\XOX.Properties.Resources.resources
+C:\Users\gs_gr\OneDrive\Masaüstü\Çalışma-Masası\C#\XOX\XOX\obj\Release\XOX.csproj.GenerateResource.cache
+C:\Users\gs_gr\OneDrive\Masaüstü\Çalışma-Masası\C#\XOX\XOX\obj\Release\XOX.csproj.CoreCompileInputs.cache
+C:\Users\gs_gr\OneDrive\Masaüstü\Çalışma-Masası\C#\XOX\XOX\obj\Release\XOX.exe
+C:\Users\gs_gr\OneDrive\Masaüstü\Çalışma-Masası\C#\XOX\XOX\obj\Release\XOX.pdb
+C:\Users\gs_gr\OneDrive\Masaüstü\Çalışma-Masası\C#\XOX\XOX\obj\Release\XOX.csprojAssemblyReference.cache
